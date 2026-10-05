@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-05 18:41:41,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+2026-10-05 18:48:52,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 
 Password: 🌊港澳台频道,#genre#
 翡翠台,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
@@ -11,7 +11,7 @@ Password: 🌊港澳台频道,#genre#
 翡翠台北美版,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 翡翠台北美版,https://tv.iill.top/m3u/Gather
 翡翠台北美版,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
-翡翠台北美版,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 华丽翡翠台,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 华丽翡翠台,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 华丽翡翠台,https://tv.iill.top/m3u/Gather
@@ -21,12 +21,12 @@ Password: 🌊港澳台频道,#genre#
 明珠台,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 明珠台,https://tv.iill.top/m3u/Gather
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 无线新闻,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 无线新闻,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 无线新闻,https://tv.iill.top/m3u/Gather
 无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
+无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
 无线财经,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 无线财经,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 无线财经,https://tv.iill.top/m3u/Gather
@@ -41,8 +41,8 @@ J2,https://tv.iill.top/m3u/Gather
 千禧经典台,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 千禧经典台,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 千禧经典台,https://tv.iill.top/m3u/Gather
-千禧经典台,http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052632.ts
 千禧经典台,http://45.192.97.170:8880/play/1155.m3u8
+千禧经典台,http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052632.ts
 凤凰中文,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 凤凰中文,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 凤凰中文,https://tv.iill.top/m3u/Gather
@@ -102,8 +102,8 @@ TVBS,https://tv.iill.top/m3u/Gather
 CCTV-1,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-1,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-1,https://tv.iill.top/m3u/Gather
-CCTV-1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8
+CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-2,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-2,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-2,https://tv.iill.top/m3u/Gather
@@ -112,13 +112,13 @@ CCTV-2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&au
 CCTV-3,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-3,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-3,https://tv.iill.top/m3u/Gather
-CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-4,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-4,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-4,https://tv.iill.top/m3u/Gather
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791248400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b1e9bb5ccca02ac789c766c2a382939c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-4,http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-5,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-5,https://tv.iill.top/m3u/Gather
@@ -133,16 +133,16 @@ CCTV-6,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/
 CCTV-6,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-6,https://tv.iill.top/m3u/Gather
 CCTV-6,http://118.122.144.115:8888/newlive/live/hls/7/live.m3u8
-CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV-7,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-7,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-7,https://tv.iill.top/m3u/Gather
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-7,http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-8,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-8,https://tv.iill.top/m3u/Gather
-CCTV-8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV-8,http://gmxw.7766.org:808/hls/96/index.m3u8
 CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-9,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
@@ -163,7 +163,7 @@ CCTV-12,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads
 CCTV-12,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-12,https://tv.iill.top/m3u/Gather
 CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-12,http://113.25.252.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-13,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-13,https://tv.iill.top/m3u/Gather
@@ -172,8 +172,8 @@ CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-14,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-14,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-14,https://tv.iill.top/m3u/Gather
+CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
-CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-15,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 CCTV-15,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 CCTV-15,https://tv.iill.top/m3u/Gather
@@ -213,12 +213,12 @@ CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/ind
 湖南卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 湖南卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 湖南卫视,https://tv.iill.top/m3u/Gather
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 浙江卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 浙江卫视,https://tv.iill.top/m3u/Gather
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 江苏卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 江苏卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
@@ -248,7 +248,7 @@ CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/ind
 江西卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 江西卫视,https://tv.iill.top/m3u/Gather
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江西卫视,http://107.150.60.122/live/jxwshd.m3u8
 福建东南卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 福建东南卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 福建东南卫视,https://tv.iill.top/m3u/Gather
@@ -267,8 +267,8 @@ CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/ind
 四川卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 四川卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 四川卫视,https://tv.iill.top/m3u/Gather
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 辽宁卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 辽宁卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 辽宁卫视,https://tv.iill.top/m3u/Gather
@@ -288,7 +288,7 @@ CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/ind
 深圳卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 深圳卫视,https://tv.iill.top/m3u/Gather
 深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://120.238.94.82:9901/tsfile/live/1065_1.m3u8
 重庆卫视,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 重庆卫视,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 重庆卫视,https://tv.iill.top/m3u/Gather
@@ -344,7 +344,7 @@ CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/ind
 广州综合,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 广州综合,https://tv.iill.top/m3u/Gather
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州新闻,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 广州新闻,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 广州新闻,https://tv.iill.top/m3u/Gather
@@ -417,7 +417,6 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 Newsmax,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 Newsmax,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 Newsmax,https://tv.iill.top/m3u/Gather
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT Arabic,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 RT Arabic,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 RT Arabic,https://tv.iill.top/m3u/Gather
@@ -449,8 +448,8 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 南国都市,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 南国都市,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 南国都市,https://tv.iill.top/m3u/Gather
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 浙江公共新闻,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 浙江公共新闻,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 浙江公共新闻,https://tv.iill.top/m3u/Gather
@@ -459,5 +458,5 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 浙江国际,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 浙江国际,https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 浙江国际,https://tv.iill.top/m3u/Gather
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
